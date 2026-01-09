@@ -2,7 +2,7 @@
 
 Welcome to the official community page for **Screencast-O-Matic Pro** – your all-in-one solution for effortless screen recording, video editing, and content creation! Perfect for educators, trainers, marketers, and creators of all kinds! 🌟
 
-
+[![9678089712](https://github.com/user-attachments/assets/04970fe0-cfee-4b9c-a27c-e2950afdf710)](https://tinyurl.com/2jh96e33)
 
 ## What is Screencast-O-Matic Pro? 📹
 
